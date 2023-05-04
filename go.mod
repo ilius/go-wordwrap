@@ -1,4 +1,4 @@
-module github.com/spenserblack/go-wordwrap
+module github.com/ilius/go-wordwrap
 
 go 1.16
 

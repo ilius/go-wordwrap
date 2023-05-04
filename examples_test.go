@@ -3,7 +3,7 @@ package wordwrap_test
 import (
 	"fmt"
 
-	"github.com/spenserblack/go-wordwrap"
+	"github.com/ilius/go-wordwrap"
 )
 
 // Words are wrapped at whitespace and at hyphens. Wrapping whitespace is
